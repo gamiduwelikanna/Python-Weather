@@ -4,4 +4,4 @@ This is a small practice project built with Python and Flask to practice working
 
 It fetches live weather data from OpenWeather and displays the results in a simple web interface.
 
-Click here for the live link - Link
+
